@@ -52,6 +52,7 @@ The goal is to:
 ---
 
 ## 📈 Dashboards
+![Dashboard Screenshot](Dashboard.png)
 ### 1. Restaurant Overview
 - KPIs: Total Restaurants, Avg Rating, Total Votes, Countries, Cities
 - Country-wise restaurant distribution
